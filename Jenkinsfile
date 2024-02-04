@@ -22,7 +22,7 @@ pipeline{
         
         stage('Deploy'){
             steps {
-                bat ' node server.js'
+                bat 'node server.js'
             }
         }
     }

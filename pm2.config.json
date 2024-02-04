@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "name": "MyApp",
+      "name": "CICD",
       "script": "server.js"
     }
   ]
